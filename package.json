@@ -20,6 +20,8 @@
     "body-parser": "^1.18.3",
     "eslint": "^5.2.0",
     "express": "^4.16.3",
+    "faker": "^4.1.0",
+    "lodash": "^4.17.10",
     "mocha": "^5.2.0",
     "mongoose": "^5.2.5",
     "nodemon": "^1.18.3",
