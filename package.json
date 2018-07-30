@@ -1,0 +1,28 @@
+{
+  "name": "muber",
+  "version": "1.0.0",
+  "description": "\"# mdbexpressmongoose\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "set NODE_ENV=test&& nodemon --exec mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shindearun/mdbexpressmongoose.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shindearun/mdbexpressmongoose/issues"
+  },
+  "homepage": "https://github.com/shindearun/mdbexpressmongoose#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "eslint": "^5.2.0",
+    "express": "^4.16.3",
+    "mocha": "^5.2.0",
+    "mongoose": "^5.2.5",
+    "nodemon": "^1.18.3",
+    "supertest": "^3.1.0"
+  }
+}
